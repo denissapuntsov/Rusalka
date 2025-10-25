@@ -1,0 +1,15 @@
+[1020/160049.319:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1020/172652.684:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172652.696:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172655.686:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172655.687:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172657.704:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172657.706:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172700.694:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172700.712:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172704.996:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172705.011:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1020/172705.672:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1021/113438.133:ERROR:angle_platform_impl.cc(43)] Renderer11.cpp:2135 (testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0005
+[1021/113438.133:ERROR:shared_context_state.cc(826)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
+[1021/113438.134:ERROR:gpu_service_impl.cc(1187)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.

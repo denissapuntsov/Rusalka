@@ -1,0 +1,2 @@
+/Engine/Transient.Default__DEADCLASS_BP_Interactable_Bone01_C_7
+/Game/Blueprints/BP_BaseInteractable.BP_BaseInteractable_C
